@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" fill="none">
+  <rect width="1200" height="630" rx="0" fill="#7c3aed"/>
+  <rect x="40" y="40" width="1120" height="550" rx="32" fill="white" fill-opacity="0.1"/>
+  <text x="600" y="260" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="72" font-weight="800" fill="white">PilihPintar.ai</text>
+  <text x="600" y="340" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="400" fill="white" fill-opacity="0.8">Rekomendasi Barang Cerdas Berbasis AI</text>
+  <text x="600" y="420" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="500" fill="#facc15">Jangan salah beli.</text>
+</svg>
